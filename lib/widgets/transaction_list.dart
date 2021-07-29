@@ -37,7 +37,7 @@ class TransactionList extends StatelessWidget {
                       Container(
                         margin: EdgeInsets.symmetric(
                           vertical: 10,
-                          horizontal: 15,
+                          horizontal: 10,
                         ),
                         decoration: BoxDecoration(
                           border: Border.all(
